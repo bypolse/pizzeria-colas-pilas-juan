@@ -1,6 +1,7 @@
 ﻿﻿﻿/*
  * Pizzería Campus Express - Gestión de pedidos con Queue y Stack
  * Compatible con SharpDevelop 4.4 / .NET Framework 2.0+
+ * Resolucion de error Juan Useche
  */
 
 using System;
